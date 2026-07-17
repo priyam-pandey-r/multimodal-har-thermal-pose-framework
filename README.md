@@ -86,7 +86,9 @@ Reliability-aware attention improves robustness under modality uncertainty.
 ---
 ## Status
 
-Accepted for publication in **Knowledge-Based Systems (Elsevier)**.
+Accepted for publication in Knowledge-Based Systems (Elsevier).
+
+DOI and publisher link will be added after online publication.
 
 **Paper**
 
