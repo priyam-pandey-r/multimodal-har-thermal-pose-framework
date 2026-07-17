@@ -5,6 +5,17 @@
 Privacy-preserving human activity recognition using thermal imagery and pose signals.  
 This work studies how multimodal fusion improves robustness under low-visibility and privacy constraints.
 
+## Repository Structure
+
+```
+.
+├── notebooks/
+│   ├── Multimodal_Framework.ipynb
+│   └── uni_modal_ablation.ipynb
+├── assets/
+└── README.md
+```
+
 ---
 
 ## Problem
@@ -39,6 +50,20 @@ Consistent improvement over unimodal baselines with low variance across seeds.
 
 ![Results](assets/har_results.png)
 
+# Data Availability
+
+This work builds upon the publicly available **IS2AI Open Thermal Pose** dataset and extends it with new activity annotations for human activity recognition.
+
+**Original Dataset**
+- IS2AI Open Thermal Pose Dataset (public): https://github.com/IS2AI/OpenThermalPose
+
+The original thermal images and pose annotations are available from the official IS2AI repository.
+
+The additional **6-class and 8-class activity annotations**, together with the preprocessing pipeline introduced in this work, are not currently distributed through this repository.
+
+These research artifacts are available from the authors upon reasonable request.
+
+Please cite both the original IS2AI dataset and our paper when using the extended annotations.
 ---
 
 ## Key Insight
@@ -55,14 +80,29 @@ Reliability-aware attention improves robustness under modality uncertainty.
 - Demonstration of structured modality complementarity  
 
 ---
-
 ## Status
 
-Paper under review (Q1 journal)
+Accepted for publication in **Knowledge-Based Systems (Elsevier)**.
+
+**Paper**
+
+*Multimodal Learning With Thermal Imagery and Pose Cues for Privacy-Preserving Behaviour Recognition*
+
+Reference: **KNOSYS-D-26-04302R1**
+
+The DOI and publisher link will be added after online publication.
+
+# Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+The BibTeX citation will be added after the paper is published online.
+```
 
 ---
-
 ## Note
 
-Full code is not public due to ongoing research submission.  
-Implementation details can be discussed upon request.
+This repository contains the complete implementation of the unimodal and multimodal learning frameworks presented in our paper.
+
+The extended activity annotations introduced in this work are not included in this repository. Please refer to the **Data Availability** section for details.
