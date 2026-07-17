@@ -2,18 +2,23 @@
 ## Overview
 
 Privacy-preserving human activity recognition using thermal imagery and pose signals.  
-This work studies how multimodal fusion improves robustness under low-visibility and privacy constraints.
+This work studies how multimodal fusion improves robustness under low-visibility and privacy constraints
 
 ## Repository Structure
 
 ```
-.
-├── notebooks/
-│   ├── Multimodal_Framework.ipynb
-│   └── uni_modal_ablation.ipynb
-├── assets/
-└── README.md
+notebooks/
+├── Multimodal_Framework.ipynb
+└── Unimodal_Benchmarking_Framework.ipynb
 ```
+
+### Multimodal_Framework.ipynb
+
+Implements the complete multimodal learning framework, including multimodal fusion methods, training, evaluation, and experiment management.
+
+### Unimodal_Benchmarking_Framework.ipynb
+
+Implements the benchmarking framework for unimodal thermal and pose models, including baseline architectures, loss function comparisons, classifier evaluation, profiling, and multi-seed experiments.
 
 ---
 
