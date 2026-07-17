@@ -1,5 +1,4 @@
-# Multimodal Human Activity Recognition (Thermal + Pose)
-
+# Privacy-Preserving Human Activity Recognition with Thermal Imagery and Pose Cues
 ## Overview
 
 Privacy-preserving human activity recognition using thermal imagery and pose signals.  
