@@ -86,12 +86,12 @@ Reliability-aware attention improves robustness under modality uncertainty.
 ---
 ## Status
  First-author publication in *Knowledge-Based Systems* (2026)
- **Paper**
+ **Paper** : *Multimodal Learning With Thermal Imagery and Pose Cues for Privacy-Preserving Behaviour Recognition*
 
-*Multimodal Learning With Thermal Imagery and Pose Cues for Privacy-Preserving Behaviour Recognition*
 **DOI:** `10.1016/j.knosys.2026.116659`
-**Paper:** [ScienceDirect](https://www.sciencedirect.com/science/article/pii/
-S0950705126013857)
+
+**Paper:** [ScienceDirect]
+(https://www.sciencedirect.com/science/article/pii/S0950705126013857)
 
 
 
